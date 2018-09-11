@@ -63,6 +63,19 @@ article { background-color: rgb(255,255,255); width: 420px; margin-bottom: 20px;
 
 .slideshow { width: 400px; height: 400px; padding-left: 10px; margin:0 auto; }
 	
+.gallery{
+	margin: 10px 50px;
+}
+.gallery img{
+	width: 300px;
+	padding: 5px;
+	transition: 1s;
+}
+	.gallery img:hover{
+		transform: scale (1.1);
+
+}
+
 
 Don't forget to commit the new CSS file!
 
