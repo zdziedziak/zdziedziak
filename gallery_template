@@ -1,19 +1,3 @@
----
-layout: gallery
-title: Sydney Photos
----
-<div class="blurb">
-	<h1 align="center">Sydney Photos</h1>
-
-  <p align="center">Photos taken during our roughly 12 hour layover in Sydney</a></p>
-  <p align="center">We walked around Sydney for the day and soaked up the Australian heat before we escaped to the more temperate NZ.</p>
-
-
-<br>
-<br>
-<br>
-	<p align="center">Click on the images to show a larger photo.  You can click through the photos, or use your left and right arrow keys on your keyboard</p>
-		<div class="gallery" align="center">
 <a href="images/fox/pic1.jpg" data-lightbox="gallery"><img src="images/fox/pic1_small.jpg"></a>
     <a href="images/fox/pic2.jpg" data-lightbox="gallery"><img src="images/fox/pic2_small.jpg"></a>
       <a href="images/fox/pic3.jpg" data-lightbox="gallery"><img src="images/fox/pic3_small.jpg"></a>
@@ -108,10 +92,108 @@ title: Sydney Photos
 <a href="images/fox/pic92.jpg" data-lightbox="gallery"><img src="images/fox/pic92_small.jpg"></a>
 <a href="images/fox/pic93.jpg" data-lightbox="gallery"><img src="images/fox/pic93_small.jpg"></a>
 <a href="images/fox/pic94.jpg" data-lightbox="gallery"><img src="images/fox/pic94_small.jpg"></a>
-
-		</div>
-
-
-
-</div><!-- /.blurb -->
-
+<a href="images/fox/pic95.jpg" data-lightbox="gallery"><img src="images/fox/pic95_small.jpg"></a>
+<a href="images/fox/pic96.jpg" data-lightbox="gallery"><img src="images/fox/pic96_small.jpg"></a>
+<a href="images/fox/pic97.jpg" data-lightbox="gallery"><img src="images/fox/pic97_small.jpg"></a>
+<a href="images/fox/pic98.jpg" data-lightbox="gallery"><img src="images/fox/pic98_small.jpg"></a>
+<a href="images/fox/pic99.jpg" data-lightbox="gallery"><img src="images/fox/pic99_small.jpg"></a>
+<a href="images/fox/pic100.jpg" data-lightbox="gallery"><img src="images/fox/pic100_small.jpg"></a>
+<a href="images/fox/pic101.jpg" data-lightbox="gallery"><img src="images/fox/pic101_small.jpg"></a>
+    <a href="images/fox/pic102.jpg" data-lightbox="gallery"><img src="images/fox/pic102_small.jpg"></a>
+      <a href="images/fox/pic103.jpg" data-lightbox="gallery"><img src="images/fox/pic103_small.jpg"></a>
+      <a href="images/fox/pic104.jpg" data-lightbox="gallery"><img src="images/fox/pic104_small.jpg"></a>
+      <a href="images/fox/pic105.jpg" data-lightbox="gallery"><img src="images/fox/pic105_small.jpg"></a>
+      <a href="images/fox/pic106.jpg" data-lightbox="gallery"><img src="images/fox/pic106_small.jpg"></a>
+      <a href="images/fox/pic107.jpg" data-lightbox="gallery"><img src="images/fox/pic107_small.jpg"></a>
+      <a href="images/fox/pic108.jpg" data-lightbox="gallery"><img src="images/fox/pic108_small.jpg"></a>
+      <a href="images/fox/pic109.jpg" data-lightbox="gallery"><img src="images/fox/pic109_small.jpg"></a>
+<a href="images/fox/pic110.jpg" data-lightbox="gallery"><img src="images/fox/pic110_small.jpg"></a>
+      <a href="images/fox/pic111.jpg" data-lightbox="gallery"><img src="images/fox/pic111_small.jpg"></a>
+      <a href="images/fox/pic112.jpg" data-lightbox="gallery"><img src="images/fox/pic112_small.jpg"></a>
+      <a href="images/fox/pic113.jpg" data-lightbox="gallery"><img src="images/fox/pic113_small.jpg"></a>
+      <a href="images/fox/pic114.jpg" data-lightbox="gallery"><img src="images/fox/pic114_small.jpg"></a>
+      <a href="images/fox/pic115.jpg" data-lightbox="gallery"><img src="images/fox/pic115_small.jpg"></a>
+      <a href="images/fox/pic116.jpg" data-lightbox="gallery"><img src="images/fox/pic116_small.jpg"></a>
+      <a href="images/fox/pic117.jpg" data-lightbox="gallery"><img src="images/fox/pic117_small.jpg"></a>
+      <a href="images/fox/pic118.jpg" data-lightbox="gallery"><img src="images/fox/pic118_small.jpg"></a>
+      <a href="images/fox/pic119.jpg" data-lightbox="gallery"><img src="images/fox/pic119_small.jpg"></a>
+      <a href="images/fox/pic120.jpg" data-lightbox="gallery"><img src="images/fox/pic120_small.jpg"></a>
+      <a href="images/fox/pic121.jpg" data-lightbox="gallery"><img src="images/fox/pic121_small.jpg"></a>
+      <a href="images/fox/pic122.jpg" data-lightbox="gallery"><img src="images/fox/pic122_small.jpg"></a>
+      <a href="images/fox/pic123.jpg" data-lightbox="gallery"><img src="images/fox/pic123_small.jpg"></a>
+      <a href="images/fox/pic124.jpg" data-lightbox="gallery"><img src="images/fox/pic124_small.jpg"></a>
+      <a href="images/fox/pic125.jpg" data-lightbox="gallery"><img src="images/fox/pic125_small.jpg"></a>
+      <a href="images/fox/pic126.jpg" data-lightbox="gallery"><img src="images/fox/pic126_small.jpg"></a>
+      <a href="images/fox/pic127.jpg" data-lightbox="gallery"><img src="images/fox/pic127_small.jpg"></a>
+      <a href="images/fox/pic128.jpg" data-lightbox="gallery"><img src="images/fox/pic128_small.jpg"></a>
+      <a href="images/fox/pic129.jpg" data-lightbox="gallery"><img src="images/fox/pic129_small.jpg"></a>
+      <a href="images/fox/pic130.jpg" data-lightbox="gallery"><img src="images/fox/pic130_small.jpg"></a>
+      <a href="images/fox/pic131.jpg" data-lightbox="gallery"><img src="images/fox/pic131_small.jpg"></a>
+      <a href="images/fox/pic132.jpg" data-lightbox="gallery"><img src="images/fox/pic132_small.jpg"></a>
+      <a href="images/fox/pic133.jpg" data-lightbox="gallery"><img src="images/fox/pic133_small.jpg"></a>
+      <a href="images/fox/pic134.jpg" data-lightbox="gallery"><img src="images/fox/pic134_small.jpg"></a>
+      <a href="images/fox/pic135.jpg" data-lightbox="gallery"><img src="images/fox/pic135_small.jpg"></a>
+      <a href="images/fox/pic136.jpg" data-lightbox="gallery"><img src="images/fox/pic136_small.jpg"></a>
+      <a href="images/fox/pic137.jpg" data-lightbox="gallery"><img src="images/fox/pic137_small.jpg"></a>
+      <a href="images/fox/pic138.jpg" data-lightbox="gallery"><img src="images/fox/pic138_small.jpg"></a>
+      <a href="images/fox/pic139.jpg" data-lightbox="gallery"><img src="images/fox/pic139_small.jpg"></a>
+      <a href="images/fox/pic140.jpg" data-lightbox="gallery"><img src="images/fox/pic140_small.jpg"></a>
+      <a href="images/fox/pic141.jpg" data-lightbox="gallery"><img src="images/fox/pic141_small.jpg"></a>
+      <a href="images/fox/pic142.jpg" data-lightbox="gallery"><img src="images/fox/pic142_small.jpg"></a>
+      <a href="images/fox/pic143.jpg" data-lightbox="gallery"><img src="images/fox/pic143_small.jpg"></a>
+      <a href="images/fox/pic144.jpg" data-lightbox="gallery"><img src="images/fox/pic144_small.jpg"></a>
+      <a href="images/fox/pic145.jpg" data-lightbox="gallery"><img src="images/fox/pic145_small.jpg"></a>
+      <a href="images/fox/pic146.jpg" data-lightbox="gallery"><img src="images/fox/pic146_small.jpg"></a>
+      <a href="images/fox/pic147.jpg" data-lightbox="gallery"><img src="images/fox/pic147_small.jpg"></a>
+      <a href="images/fox/pic148.jpg" data-lightbox="gallery"><img src="images/fox/pic148_small.jpg"></a>
+      <a href="images/fox/pic149.jpg" data-lightbox="gallery"><img src="images/fox/pic149_small.jpg"></a>
+      <a href="images/fox/pic150.jpg" data-lightbox="gallery"><img src="images/fox/pic150_small.jpg"></a>
+      <a href="images/fox/pic151.jpg" data-lightbox="gallery"><img src="images/fox/pic151_small.jpg"></a>
+<a href="images/fox/pic152.jpg" data-lightbox="gallery"><img src="images/fox/pic152_small.jpg"></a>
+<a href="images/fox/pic153.jpg" data-lightbox="gallery"><img src="images/fox/pic153_small.jpg"></a>
+<a href="images/fox/pic154.jpg" data-lightbox="gallery"><img src="images/fox/pic154_small.jpg"></a>
+<a href="images/fox/pic155.jpg" data-lightbox="gallery"><img src="images/fox/pic155_small.jpg"></a>
+<a href="images/fox/pic156.jpg" data-lightbox="gallery"><img src="images/fox/pic156_small.jpg"></a>
+<a href="images/fox/pic157.jpg" data-lightbox="gallery"><img src="images/fox/pic157_small.jpg"></a>
+<a href="images/fox/pic158.jpg" data-lightbox="gallery"><img src="images/fox/pic158_small.jpg"></a>
+<a href="images/fox/pic159.jpg" data-lightbox="gallery"><img src="images/fox/pic159_small.jpg"></a>
+<a href="images/fox/pic160.jpg" data-lightbox="gallery"><img src="images/fox/pic160_small.jpg"></a>
+<a href="images/fox/pic161.jpg" data-lightbox="gallery"><img src="images/fox/pic161_small.jpg"></a>
+<a href="images/fox/pic162.jpg" data-lightbox="gallery"><img src="images/fox/pic162_small.jpg"></a>
+<a href="images/fox/pic163.jpg" data-lightbox="gallery"><img src="images/fox/pic163_small.jpg"></a>
+<a href="images/fox/pic164.jpg" data-lightbox="gallery"><img src="images/fox/pic164_small.jpg"></a>
+<a href="images/fox/pic165.jpg" data-lightbox="gallery"><img src="images/fox/pic165_small.jpg"></a>
+<a href="images/fox/pic166.jpg" data-lightbox="gallery"><img src="images/fox/pic166_small.jpg"></a>
+<a href="images/fox/pic167.jpg" data-lightbox="gallery"><img src="images/fox/pic167_small.jpg"></a>
+<a href="images/fox/pic168.jpg" data-lightbox="gallery"><img src="images/fox/pic168_small.jpg"></a>
+<a href="images/fox/pic169.jpg" data-lightbox="gallery"><img src="images/fox/pic169_small.jpg"></a>
+<a href="images/fox/pic170.jpg" data-lightbox="gallery"><img src="images/fox/pic170_small.jpg"></a>
+<a href="images/fox/pic171.jpg" data-lightbox="gallery"><img src="images/fox/pic171_small.jpg"></a>
+<a href="images/fox/pic172.jpg" data-lightbox="gallery"><img src="images/fox/pic172_small.jpg"></a>
+<a href="images/fox/pic173.jpg" data-lightbox="gallery"><img src="images/fox/pic173_small.jpg"></a>
+<a href="images/fox/pic174.jpg" data-lightbox="gallery"><img src="images/fox/pic174_small.jpg"></a>
+<a href="images/fox/pic175.jpg" data-lightbox="gallery"><img src="images/fox/pic175_small.jpg"></a>
+<a href="images/fox/pic176.jpg" data-lightbox="gallery"><img src="images/fox/pic176_small.jpg"></a>
+<a href="images/fox/pic177.jpg" data-lightbox="gallery"><img src="images/fox/pic177_small.jpg"></a>
+<a href="images/fox/pic178.jpg" data-lightbox="gallery"><img src="images/fox/pic178_small.jpg"></a>
+<a href="images/fox/pic179.jpg" data-lightbox="gallery"><img src="images/fox/pic179_small.jpg"></a>
+<a href="images/fox/pic180.jpg" data-lightbox="gallery"><img src="images/fox/pic180_small.jpg"></a>
+<a href="images/fox/pic181.jpg" data-lightbox="gallery"><img src="images/fox/pic181_small.jpg"></a>
+<a href="images/fox/pic182.jpg" data-lightbox="gallery"><img src="images/fox/pic182_small.jpg"></a>
+<a href="images/fox/pic183.jpg" data-lightbox="gallery"><img src="images/fox/pic183_small.jpg"></a>
+<a href="images/fox/pic184.jpg" data-lightbox="gallery"><img src="images/fox/pic184_small.jpg"></a>
+<a href="images/fox/pic185.jpg" data-lightbox="gallery"><img src="images/fox/pic185_small.jpg"></a>
+<a href="images/fox/pic186.jpg" data-lightbox="gallery"><img src="images/fox/pic186_small.jpg"></a>
+<a href="images/fox/pic187.jpg" data-lightbox="gallery"><img src="images/fox/pic187_small.jpg"></a>
+<a href="images/fox/pic188.jpg" data-lightbox="gallery"><img src="images/fox/pic188_small.jpg"></a>
+<a href="images/fox/pic189.jpg" data-lightbox="gallery"><img src="images/fox/pic189_small.jpg"></a>
+<a href="images/fox/pic190.jpg" data-lightbox="gallery"><img src="images/fox/pic190_small.jpg"></a>
+<a href="images/fox/pic191.jpg" data-lightbox="gallery"><img src="images/fox/pic191_small.jpg"></a>
+<a href="images/fox/pic192.jpg" data-lightbox="gallery"><img src="images/fox/pic192_small.jpg"></a>
+<a href="images/fox/pic193.jpg" data-lightbox="gallery"><img src="images/fox/pic193_small.jpg"></a>
+<a href="images/fox/pic194.jpg" data-lightbox="gallery"><img src="images/fox/pic194_small.jpg"></a>
+<a href="images/fox/pic195.jpg" data-lightbox="gallery"><img src="images/fox/pic195_small.jpg"></a>
+<a href="images/fox/pic196.jpg" data-lightbox="gallery"><img src="images/fox/pic196_small.jpg"></a>
+<a href="images/fox/pic197.jpg" data-lightbox="gallery"><img src="images/fox/pic197_small.jpg"></a>
+<a href="images/fox/pic198.jpg" data-lightbox="gallery"><img src="images/fox/pic198_small.jpg"></a>
+<a href="images/fox/pic199.jpg" data-lightbox="gallery"><img src="images/fox/pic199_small.jpg"></a>
